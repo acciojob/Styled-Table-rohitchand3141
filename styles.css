@@ -1,1 +1,12 @@
-/* your code */
+body{
+	margin:0px !important;
+	border:1px solid black;
+	border-radius:4px;
+}
+.head{
+	background-color:blue;
+	color:white;
+}
+.data{
+	background-color:grey;
+}
